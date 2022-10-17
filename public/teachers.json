@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "md. motiur Rahman",
+    "subject": "English",
+    "img": "https://i.ibb.co/q5c9tpP/teacher1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Begum Ashifa",
+    "subject": "Math",
+    "img": "https://i.ibb.co/PNhYG6P/teacher2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Konika Rahman",
+    "subject": "Physics",
+    "img": "https://i.ibb.co/kK0vSqr/teacher4.webpg"
+  },
+  {
+    "id": 4,
+    "name": "md. Shaiful Islam",
+    "subject": "Chemestry",
+    "img": "https://i.ibb.co/q5c9tpP/teacher1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "md. Hasan Mahamud",
+    "subject": "Biology",
+    "img": "https://i.ibb.co/kK0vSqr/teacher4.webp"
+  },
+  {
+    "id": 6,
+    "name": "Labiba Rahman",
+    "subject": "Economics",
+    "img": "https://i.ibb.co/g3FBSwq/teacher3.jpg"
+  },
+  {
+    "id": 7,
+    "name": "md. Imran Khan",
+    "subject": "Geography",
+    "img": "https://i.ibb.co/PNhYG6P/teacher2.jpg"
+  },
+  {
+    "id": 8,
+    "name": "md. Rafi Mahmud",
+    "subject": "History",
+    "img": "https://i.ibb.co/g3FBSwq/teacher3.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Shree. Ajoy Devnath",
+    "subject": "Social Science",
+    "img": "https://i.ibb.co/PNhYG6P/teacher2.jpg"
+  },
+  {
+    "id": 10,
+    "name": "md. Munna Talukdar",
+    "subject": "Finance",
+    "img": "hhttps://i.ibb.co/g3FBSwq/teacher3.jpg"
+  }
+]

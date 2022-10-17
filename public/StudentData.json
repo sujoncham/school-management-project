@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "md. motiur Rahman",
+    "studentId": "202250109",
+    "class": "nine",
+    "section": "boys",
+    "img": "https://i.ibb.co/q5c9tpP/teacher1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Begum Ashifa",
+    "studentId": "202250107",
+    "class": "seven",
+    "section": "girls",
+    "img": "https://i.ibb.co/PNhYG6P/teacher2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Konika Rahman",
+    "studentId": "202250106",
+    "class": "six",
+    "section": "girls",
+    "img": "https://i.ibb.co/g3FBSwq/teacher3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Santono Moitro",
+    "studentId": "202250110",
+    "class": "ten",
+    "section": "boys",
+    "img": "https://i.ibb.co/g3FBSwq/teacher1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Shoriful Islam",
+    "studentId": "202250108",
+    "class": "eight",
+    "section": "boys",
+    "img": "https://i.ibb.co/g3FBSwq/teacher2.jpg"
+  }
+]
